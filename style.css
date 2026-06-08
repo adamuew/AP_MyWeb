@@ -78,7 +78,7 @@ nav ul li a:hover::after{
     width: 100%;
 }
 .toggle-btn{
-    background: #66ff48;
+    background: #800080;
     color: #fff;
     display: flex;
     align-items: center;
